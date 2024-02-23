@@ -1,0 +1,27 @@
+{
+  "name": "tunesify-app-development",
+  "version": "1.0.0",
+  "description": "A React Application For Managing Tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanOyewole/React-Task-Management-.git"
+  },
+  "keywords": [
+    "task",
+    "management",
+    "React",
+    "Redux",
+    "JavaScript",
+    "Webpack"
+  ],
+  "author": "Nathan Oyewole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanOyewole/React-Task-Management-/issues"
+  },
+  "homepage": "https://github.com/NathanOyewole/React-Task-Management-#readme"
+}
